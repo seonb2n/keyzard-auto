@@ -9,8 +9,8 @@ public class KeyzardLogin {
     private WebElement element;
     private String url;
 
-    private final String ID = "626ksb";
-    private final String PW = "b4U!ZtXyr2AF@6M";
+    private final String ID = "";
+    private final String PW = "";
 
     public static String WEB_DRIVER_ID = "webdriver.chrome.driver";
     public static String WEB_DRIVER_PATH = "C:/selenium/driver/chromedriver.exe";
